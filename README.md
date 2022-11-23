@@ -9,4 +9,5 @@ src="https://img.shields.io/github/followers/Scipinz?logo=github&style=for-the-b
 ![Scipinz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scipinz&show_icons=true&theme=radical)
 ![Jonathan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scipinz&layout=compact&theme=radical)
 ![Metrics](/github-metrics.svg)
+![Lines](/metrics.plugin.lines.svg)
 ![History](/metrics.plugin.lines.history.svg)
