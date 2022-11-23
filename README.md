@@ -6,11 +6,7 @@ src="https://img.shields.io/github/followers/Scipinz?logo=github&style=for-the-b
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=Discord&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.com/users/Scipinz#1832)
 
 ![Jonathan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scipinz&layout=compact&theme=radical)
-
 ![Isocalendar](/metrics.plugin.isocalendar.fullyear.svg)
-
-![Scipinz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scipinz&show_icons=true&theme=radical)
-
 ![History](/metrics.plugin.lines.history.svg)
-
+![Scipinz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scipinz&show_icons=true&theme=radical)
 ![Metrics](/github-metrics.svg)
