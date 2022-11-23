@@ -1,4 +1,4 @@
-## Hi, I'm Jonathan and thank you for visitng my Github page!
+# Hi, I'm Jonathan and thank you for visitng my Github page!
 
 ![Badge](https://visitor-counter-badge.vercel.app/api/Scipinz/Scipinz) <a href="https://www.github.com/Scipinz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Scipinz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
