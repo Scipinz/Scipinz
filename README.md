@@ -7,7 +7,7 @@ src="https://img.shields.io/github/followers/Scipinz?logo=github&style=for-the-b
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jona_thanb/)
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=Discord&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.com/users/Scipinz#1832)
 
-## Activity
+# Github Activity
 ![Isocalendar](/metrics.plugin.isocalendar.fullyear.svg)
 ![History](/metrics.plugin.lines.history.svg)
 
