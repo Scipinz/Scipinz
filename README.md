@@ -1,4 +1,4 @@
-# Hi, I'm Jonathan and thank you for visitng my Github page!
+# Hi, I'm Jonathan and welcome to my Github page!
 Aspiring Software Engineer and current student at Codam Coding College
 
 ![Badge](https://visitor-counter-badge.vercel.app/api/Scipinz/Scipinz) <a href="https://www.github.com/Scipinz" target="_blank" rel="noreferrer"><img
